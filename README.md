@@ -1,4 +1,4 @@
-# Promo-Gen-
+# Promo-Generator 
 
 Discord Promo Generator 
 
