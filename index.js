@@ -6,7 +6,7 @@ const HttpsProxyAgent = require("https-proxy-agent");
 
 if (cluster.isPrimary) {
     (async function() {
-        process.title = "Nitro Promo Generator | 0 Generated | discord.gg/boostx";
+        process.title = "Nitro Promo Generator | 0 Generated | Nidress#0023";
         console.log("\x1b[1m\x1b[33m[!] Fetching Base Values...\n");
         const mainPage = await fetch("https://www.toweroffantasy-global.com/").then(res => res.text());
 
